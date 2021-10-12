@@ -26,7 +26,7 @@ bl_info = {
     "author": "Samy Tichadou (tonton), Alex Paul(Update)",
     "version": (2, 0, 0),
     "blender": (2, 83, 0),
-    "location": "Import-Export Menus",
+    "location": "N - panel - Smart Config",
     "wiki_url": "https://github.com/samytichadou/SMART-CONFIG_blender_addon/tree/v0.1",
     "tracker_url": "https://github.com/samytichadou/SMART-CONFIG_blender_addon/issues/new",  
     "category": "Import-Export" }
